@@ -1,3 +1,1 @@
-a：hover{
-  color: green;
-}
+a.ex1:hover, a.ex1:active {color: green;}
