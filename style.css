@@ -4,6 +4,5 @@ a:hover{color: green;}
   flex-direction:column;
 }
 .main{
-  display: flex;
-  flex-direction:row;
+    flex-direction:row;
 }
