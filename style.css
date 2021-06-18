@@ -1,4 +1,4 @@
 a:hover{color: green;}
 html, body{ padding: 0; margin: 0;  text-align: center;}
-header, footer{ border: 1px solid #333; background: green;}
+header, footer{ border: 1px solid #333; background: green;justify-content：flex-start}
 main{    display: flex;}
