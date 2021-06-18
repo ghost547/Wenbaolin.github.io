@@ -1,7 +1,7 @@
 a:hover{color: green;}
 html, body{display: flex;flex-direction: column;}
 main{display: flex;flex: auto}
-aside{flex：1}
+aside{flex:1}
 article{flex:3}
 header, footer{display: flex; border: 1px solid gold; background: gray;justify-content：flex-start}
 
