@@ -1,8 +1,4 @@
 a:hover{color: green;}
-.body{
-  display: flex;
-  flex-direction:column;
-}
-.main{
-    flex-direction:row;
-}
+html, body{ padding: 0; margin: 0;  text-align: center;}
+header, footer{ border: 1px solid #333; background: #ccc;}
+main{    display: flex;}
