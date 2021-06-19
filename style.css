@@ -4,4 +4,4 @@ body{display: flex;flex-direction: column;background: linear-gradient(91deg,#f1e
 main{display: flex;flex: auto}
 aside{flex:1}
 article{flex:3}
-header, footer{display: flex; border: 5px solid gold;background: #000000;justify-content：flex-start}
+header, footer{display: flex; border: 5px solid gold;background: linear-gradient(135deg,#56c8ff,#6f99fc) no-repeat;justify-content：flex-start}
