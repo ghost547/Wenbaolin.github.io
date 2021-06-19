@@ -4,5 +4,5 @@ body{display: flex;flex-direction: column;background:linear-gradient(91deg,#f1ee
 main{display: flex;flex: auto}
 aside{flex:1;background:#157c4f25}
 article{flex:3}
-header{display: flex; border: 5px solid gold;background-image:url('https://imgtu.com/i/RCO2o6');justify-content：flex-start}
+header{display: flex; border: 5px solid gold;background-image:url('https://z3.ax1x.com/2021/06/19/RCO2o6.jpg');justify-content：flex-start}
 footer{display: flex; border: 5px solid gold;background:#176a5825;justify-content：flex-start}
