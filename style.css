@@ -4,7 +4,8 @@ body{display: flex;flex-direction: column;background:linear-gradient(91deg,#f1ee
 main{display: flex;flex: auto}
 aside{flex:1;background-image:url('https://z3.ax1x.com/2021/06/19/RPPxUJ.gif');
        background-position:center;
-       background-size: cover;}
+       background-size: cover;
+       color:#00FFFF;}
 article{flex:3}
 header{display: flex; border: 5px solid gold;background-image:url('https://z3.ax1x.com/2021/06/19/RPCIl6.jpg');
        background-position:center;
