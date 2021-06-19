@@ -14,4 +14,5 @@ header{display: flex;background-image:url('https://z3.ax1x.com/2021/06/19/RPCIl6
        background-size: cover;
        justify-content：flex-start;
         border: 2px solid black;}
-footer{display: flex;border: 2px solid black;background:#E6E6FA;}
+footer{display: flex;border: 2px solid black;background:#E6E6FA;position: absolute;height: 50px;text-align: center; 
+line-height: 50px;width: 100%;font-family: 'Brush Script MT', cursive;}
