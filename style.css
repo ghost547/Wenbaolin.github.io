@@ -8,7 +8,6 @@ aside{flex:1;background-image:url('https://z3.ax1x.com/2021/06/19/RPPxUJ.gif');
        color:#00FFFF;border: 2px solid black;}
 article{flex:3;border: 2px solid black}
 h1{justify-content：flex-start;align-items:flex-start;font-family: 'Brush Script MT', cursive;}
-h2{justify-content：flex-end;}
 header{display: flex;background-image:url('https://z3.ax1x.com/2021/06/19/RPCIl6.jpg');
        background-position:center;
        background-size: cover;
