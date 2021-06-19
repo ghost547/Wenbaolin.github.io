@@ -7,7 +7,8 @@ aside{flex:1;background-image:url('https://z3.ax1x.com/2021/06/19/RPPxUJ.gif');
        background-size: cover;
        color:#00FFFF;border: 2px solid black;}
 article{flex:3;border: 2px solid black}
-h1{justify-content: flex-start;align-items:flex-start;font-family: 'Brush Script MT', cursive;}
+h1{justify-content: flex-start;align-items:flex-start;font-family: 'Brush Script MT', cursive;font-size:45px;
+line-height:45px;}
 header{display: flex;background-image:url('https://z3.ax1x.com/2021/06/19/RPCIl6.jpg');
        background-position:center;
        background-size: cover;
@@ -15,6 +16,6 @@ header{display: flex;background-image:url('https://z3.ax1x.com/2021/06/19/RPCIl6
         border: 2px solid black;}
 footer{display: flex;border: 2px solid black;background:#E6E6FA;font-style:italic;
 font-weight:bold;
-font-size:50px;
-line-height:50px;
+font-size:35px;
+line-height:35px;
 font-family:"SimHei";justify-content: center;align-items:center;} 
