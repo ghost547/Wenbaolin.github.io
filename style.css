@@ -27,3 +27,14 @@ font-family:"SimHei";justify-content: center;align-items:center;}
     box-shadow: -5px 0px 10px 0px #000; #阴影
     position: relative;
 }
+.wap{
+    width: 999999999px;
+    overflow: hidden;
+  }
+  .show{
+    width: 800px;
+    height: 320px;
+    overflow: hidden;
+    margin: 200px auto;
+    box-shadow: 5px 5px 10px 4px #000;
+  }
