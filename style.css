@@ -19,3 +19,22 @@ font-weight:bold;
 font-size:35px;
 line-height:35px;
 font-family:"SimHei";justify-content: center;align-items:center;} 
+.box{
+    float: left;
+    width: 160px;
+    transition: all 0.5s;
+    border: 1px solid #fff; #边框
+    box-shadow: -5px 0px 10px 0px #000; #阴影
+    position: relative;
+  }
+.wap{
+    width: 999999999px;
+    overflow: hidden;
+  }
+  .show{
+    width: 800px;
+    height: 320px;
+    overflow: hidden;
+    margin: 200px auto;
+    box-shadow: 5px 5px 10px 4px #000;
+  }
